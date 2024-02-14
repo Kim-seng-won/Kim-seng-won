@@ -1,6 +1,6 @@
 ### 2023 겨울방학 게임 개발 스터디
 
-SHOOTING GAME(DeskTop PLAY)
+SHOOTING GAME(DeskTop 환경)
 ==============================
 ![desktop1](https://github.com/Kim-soung-won/minigame_Unity/assets/105148570/adefff8b-7fb6-4eff-bb1f-8e3442dcd2e3)
 
@@ -9,7 +9,7 @@ SHOOTING GAME(DeskTop PLAY)
 ![desktop2](https://github.com/Kim-soung-won/minigame_Unity/assets/105148570/e8188f88-ab5c-423a-ac7c-7f78c7418051)
 
 
-MINIGAME PLAY(MOBILE PLAY)
+MINIGAME PLAY(Mobile 환경)
 =============================
 ![Mobile1](https://github.com/Kim-soung-won/minigame_Unity/assets/105148570/af883a8c-d292-4148-9106-bb1f2225516a)
 
